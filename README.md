@@ -3,7 +3,7 @@
 No curso "HTML&CSS para Iniciantes" tivemos um exercício proposto pelo professor de recriar um designer do Figma utilizando todos os conteúdos estudados até o momento. <br/>
 Foi muito gratificante e importante realizar esta atividade, pois foi uma forma que me ajudou demais a consolidar os assuntos estudados, praticando de verdade em um projeto. Um dos pontos principais em fazê-lo foi  conseguir entender melhor como utilizar o "display: grid" que estava sendo um certo desafio. Além do mais, utilizamos as tags semanticas, boas praticas de uso das Class e IDs, organização do CSS e muito mais. <br/>
 Além do projeto finalizado, foi nos ensinado a como utilizar o Git e como enviar esse projeto para o GitHub utilizando as linhas de comando do Git e isso foi simplesmente genial, achei muito interessante e pude ter uma "palhinha" de como é utilizar o Git para o versionamento de código, fazer o primeiro commit, alguns comandos mais utilizados e também as boas práticas de uso. <br/>
-Foi nos ensinado também a utilizar o Node a nosso favor e fazer com que o site fique mais leve, diminuindo os bytes desnecessários e fazendo com que a ordem de carregamento do browser seja seguida.
+Foi nos ensinado também a utilizar o Node(CleanCSS) a nosso favor e fazer com que o site fique mais leve, diminuindo os bytes desnecessários e fazendo com que a ordem de carregamento do browser seja seguida.
 
 # As tecnologias utilizadas foram
 - HTML 5
