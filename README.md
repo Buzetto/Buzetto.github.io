@@ -6,4 +6,7 @@ Além do projeto finalizado, foi nos ensinado a como utilizar o Git e como envia
 
 # As tecnologias utilizadas foram
 - HTML 5
-- CSS 3 
+- CSS 3e
+
+# Link de acesso ao site
+https://buzetto.github.io/
